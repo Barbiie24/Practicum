@@ -149,8 +149,12 @@ This is the code of the first actvivity basically has all the buttons edit texts
 
 ![picture 2](https://github.com/user-attachments/assets/50bdb966-26b0-4a03-8ea4-b74564114adb)
 
+![pic 2](https://github.com/user-attachments/assets/96f68f32-091f-474f-aee3-3d6c39c2a7ce)
 
 
+these codes and images show that this is a music app it has options of which song to choose and you cna go to the second screen and exit
+Basically it allows the user to comment on the songs and rate them
+and the user to create a playlist
 
 
 
